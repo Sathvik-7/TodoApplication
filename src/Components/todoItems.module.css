@@ -25,6 +25,6 @@
     cursor: pointer;
 }
 
-.todoItem{
-    cursor: pointer;
+.completed{
+    text-decoration: line-through;
 }
